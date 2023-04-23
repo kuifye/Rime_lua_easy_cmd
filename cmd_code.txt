@@ -1,0 +1,58 @@
+#cmd命令------------------------
+
+cmd	cmd	10
+cmd_notepad	cmdn	10
+cmd_notepad	cmdjub	10
+cmd_calc	cmdc	10
+cmd_calc	cmdjsq	10
+cmd_cleanmgr	cmdcl	10
+cmd_cleanmgr	cmdlj	10
+cmd_cleanmgr	cmdljql	10
+cmd_cmd.exe	cmd	10
+cmd关机：	cmdsd	10
+cmd关机：	cmdsda	10
+cmd重启：	cmdrb	10
+cmd重启：	cmdiq	10
+cmd_Shutdown -s -t 600	cmdsd	9
+cmd_Shutdown -a 600	cmdsda	9
+cmd_Shutdown -r -t 600	cmdrb	9
+cmd_Shutdown -r -t 600	cmdiq	9
+cmd关机：	cmdsd	9
+cmd关机：	cmdgj	9
+cmd_Shutdown	cmdsd	8
+cmd_Shutdown	cmdgj	8
+cmd_devmgmt.msc	cmddev	10
+cmd_desk.cpl	cmddesk	10
+cmd_eudcedit	cmdeu	10
+cmd_logoff	cmdlog	10
+cmd_mmc	cmdmmc	10
+cmd_mspaint	cmdht	10
+cmd_mspaint	cmdpt	10
+cmd_mspaint	cmdpa	10
+cmd_osk	cmdosk	10
+cmd_osk	cmdpmjp	10
+cmd_regedit.exe	cmdvcb	10
+cmd_regedit.exe	cmdre	10
+cmd_rsop.msc	cmdzcl	10
+cmd_rsop.msc	cmdrsop	10
+cmd_StikyNot	cmdnot	10
+cmd_StikyNot	cmdbq	10
+cmd_taskmgr	cmdtask	10
+cmd_taskmgr	cmdrw	10
+cmd_taskmgr	cmdrwglq	10
+cmd_TM任务管理器	cmdtmrw	10
+cmd_write	cmdwr	10
+cmd_write	cmdwt	10
+cmd_write	cmdxzb	10
+cmd_sndrec32	cmdlyj	10
+cmd_explorer	cmdexp	10
+cmd_explorer	cmdjsj	10
+cmd_explorer	cmddn	10
+cmd_explorer	cmdwddn	10
+cmd_mstsc	cmdms	10
+cmd_mstsc	cmdyivm	10
+cmd_Sndvol32	cmdyl	10
+cmd_chkdsk.exe	cmdch	10
+cmd_chkdsk.exe	cmdcp	10
+cmd_control		cmdctrl	10
+cmd_control		cmdkvmb	10
